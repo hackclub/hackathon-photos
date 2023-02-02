@@ -2,7 +2,7 @@
 
 Every year, around the world, Hack Clubbers organise [high-school hackathons](https://hackathons.hackclub.com) to bring together hackers in their local community. Photos are an incredibly powerful method of marketing; however, first-time organisers don't always have the photos they need to market their hackathon. 
 
-**This repository serves as a directory of photo albums that organisers can use (under license) in websites, posters etc.**
+**This repository serves as a directory of photo albums that organisers can use (under license) in websites, posters, videos etc. to market their own event.**
 
 | Hackathon | Album  | Date  | Location | License | Contact |
 | --- | --- | --- | --- | --- | --- |
