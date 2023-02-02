@@ -13,7 +13,7 @@ Every year, around the world, Hack Clubbers organise [high-school hackathons](ht
 
 ## Contributing
 
-We'd love to have more photo albums in this collection! To add photos from your hackathon, please submit a PR that adds it to the table above (see pre-existing records for an example). For information about licensing, please refer to [choosealicense.com](https://choosealicense.com/non-software/). 
+We'd love to have more photo albums in this collection! To submit photos from your hackathon, please create a pull request and add them to the table above, following the format of the existing entries. For licensing information, refer to [choosealicense.com](https://choosealicense.com/non-software/). 
 
 Questions? Feel free to reach out to `@sampoder` on Slack or email `sam@hackclub.com`.
 
