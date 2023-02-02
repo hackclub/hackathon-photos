@@ -15,6 +15,6 @@ Every year, around the world, Hack Clubbers organise [high-school hackathons](ht
 
 We'd love to have more photo albums in this collection! To submit photos from your hackathon, please create a pull request and add them to the table above, following the format of the existing entries. For licensing information, refer to [choosealicense.com](https://choosealicense.com/non-software/). 
 
-Questions? Feel free to reach out to `@sampoder` on Slack or email `sam@hackclub.com`.
+Questions? Feel free to reach out to `@sampoder` on Slack or send an email to `sam@hackclub.com`.
 
-Thank you in adavance for your contribution!
+Thank you for your contribution!
