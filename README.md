@@ -12,6 +12,7 @@ Every year, around the world, Hack Clubbers organise [high-school hackathons](ht
 | CodeDay Singapore | [photos.app.goo.gl/pd...](https://photos.app.goo.gl/pd5MprLVn7ZDixv17) | Mar. 2022 | Singapore (SG) | [CC0 (“No Rights Reserved”)](https://creativecommons.org/publicdomain/zero/1.0/) | [@sampoder](https://github.com/sampoder) |
 | Flagship | [photos.app.goo.gl/F5...](https://photos.app.goo.gl/F5JDxq5FzfhofTMD9) | Jun. 2019 | San Francisco (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@zachlatta](https://github.com/zachlatta) |
 | Forsyth Hacks | [photos.app.goo.gl/pi...](https://photos.app.goo.gl/piCyiv9YJxfyKUWj8) | Mar. 2023 | Georgia (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sahitid](https://github.com/sahitid) |
+| Beantown Bash | [photos.beantownbash.org](https://photos.beantownbash.org/) | Apr. 2023 | Boston (USA) | | [@bykevinyang](https://github.com/bykevinyang) |
 
 ## Contributing
 
