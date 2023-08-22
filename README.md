@@ -6,6 +6,7 @@ Every year, around the world, Hack Clubbers organise [high-school hackathons](ht
 
 | Hackathon | Album  | Date  | Location | License | Contact |
 | --- | --- | --- | --- | --- | --- |
+| Outernet | [hack.af/outernet-highlights](https://hack.af/outernet-highlights) | Jul. 2023 | Vermont (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sampoder](https://github.com/sampoder) |
 | Epoch | [hack.af/epoch-photos](https://hack.af/epoch-photos) | Jan. 2023 | New Delhi (IN) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sampoder](https://github.com/sampoder) |
 | Lion City Hacks | [photos.app.goo.gl/sJ...](https://photos.app.goo.gl/sJt8GnZYxdGdRvkN8) | Dec. 2022 | Singapore (SG) | [CC0 (“No Rights Reserved”)](https://creativecommons.org/publicdomain/zero/1.0/) | [@sampoder](https://github.com/sampoder) |
 | Assemble | [hack.af/assemble-photos](https://hack.af/assemble-photos) | Dec. 2022 | San Francisco (USA) | [Custom License](https://cloud-egxm02uk1-hack-club-bot.vercel.app/0readme.txt) | [@kunalbotla](https://github.com/kunalbotla) |
