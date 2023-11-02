@@ -6,7 +6,7 @@ Every year, around the world, Hack Clubbers organise [high-school hackathons](ht
 
 | Hackathon | Album  | Date  | Location | License | Contact |
 | --- | --- | --- | --- | --- | --- |
-| Haunted House | [https://photos.app.goo.gl/HS8iFhkzvo6axNGc8](https://photos.app.goo.gl/HS8iFhkzvo6axNGc8) | Oct. 2023 | Chicago (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@devenjadhav](https://github.com/devenjadhav) |
+| Haunted House | [https://photos.app.goo.gl/HS...](https://photos.app.goo.gl/HS8iFhkzvo6axNGc8) | Oct. 2023 | Chicago (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@devenjadhav](https://github.com/devenjadhav) |
 | Outernet | [hack.af/outernet-highlights](https://hack.af/outernet-highlights) | Jul. 2023 | Vermont (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sampoder](https://github.com/sampoder) |
 | Forsyth Hacks | [photos.app.goo.gl/pi...](https://photos.app.goo.gl/piCyiv9YJxfyKUWj8) | Mar. 2023 | Georgia (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sahitid](https://github.com/sahitid) |
 | Epoch | [hack.af/epoch-photos](https://hack.af/epoch-photos) | Jan. 2023 | New Delhi (IN) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sampoder](https://github.com/sampoder) |
