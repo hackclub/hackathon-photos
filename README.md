@@ -6,7 +6,7 @@ Every year, around the world, Hack Clubbers organise [high-school hackathons](ht
 
 | Hackathon | Album  | Date  | Location | License | Contact |
 | --- | --- | --- | --- | --- | --- |
-| Blossom 🌸 | [Day of Service Photos](https://drive.google.com/drive/folders/1-XnTK7QPwufdo4flwsF7syqOoZwB0z6C) [Women in STEM Dinner Photos](https://drive.google.com/drive/folders/1-WR0RY4SCYAOzAD3T-Z6aT0_DYBsNGgj) | Mar. 2024 | Atlanta, GA (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sahitid](https://github.com/sahitid) |
+| Blossom 🌸 | [Day of Service Photos](https://drive.google.com/drive/folders/1-XnTK7QPwufdo4flwsF7syqOoZwB0z6C) & [Women in STEM Dinner Photos](https://drive.google.com/drive/folders/1-WR0RY4SCYAOzAD3T-Z6aT0_DYBsNGgj) | Mar. 2024 | Atlanta, GA (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sahitid](https://github.com/sahitid) |
 | Wonderland| [photos.app.goo.gl/AF1](https://photos.google.com/u/1/share/AF1QipMXNXGR-Cz1nRJxEliYTq817UGGqDyDQKRHDsdnAxcDJynnZ0YFZnx48Z09zwnaNw?key=Mk5rRFZDN0FrSFBPaGRkV05CRFJsamY3NHZWVjRn) | Feb. 2024 | Newton, MA (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@devenjadhav](https://github.com/devenjadhav) |
 | The Leaders Summit | [photos.app.goo.gl/xVd](https://photos.app.goo.gl/xVdMveDkYZZHUjLg8) | Feb. 2024 | San Francisco (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@SerenityUX](https://github.com/SerenityUX) |
 | Forsyth Hacks 2.0 | [photos.app.goo.gl/Rd...](https://photos.app.goo.gl/RdvvgMmpD3rpioNc6) | Nov. 2023 | Georgia (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sahitid](https://github.com/sahitid) |
