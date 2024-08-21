@@ -6,6 +6,7 @@ Every year, around the world, Hack Clubbers organise [high-school hackathons](ht
 
 | Hackathon | Album  | Date  | Location | License | Contact |
 | --- | --- | --- | --- | --- | --- |
+| Kigali Hacks | [photos.app.goo.gl/AF1...](https://photos.google.com/u/2/share/AF1QipOU6_nrYIG3zoe45THfiBzj9qqc_db9Z5vk3C5Hc5pZjcnk-P-uqW-XypLgMC6Vog?key=WmR0Y1g2dmZGRmNGMndvSk9xcWFjdmtwY2NzME1B) | Aug. 2024 | Kigali (RW) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@brunoblaise](https://github.com/brunoblaise) |
 | Trail | [drive.google.com/driv...](https://photos.app.goo.gl/DwtNJEfg9LVLrYVh7) | Jul. 2024 | Pacific Crest Trail | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@serenityux](https://github.com/serenityux) |
 | Blossom 🌸 | [drive.google.com/driv...](https://drive.google.com/drive/folders/1wI2NGEtDkiYODIacFQpH148QSl9RHXWM?usp=sharing) | Mar. 2024 | Atlanta, GA (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@sahitid](https://github.com/sahitid) |
 | Wonderland| [photos.app.goo.gl/AF1...](https://photos.google.com/u/1/share/AF1QipMXNXGR-Cz1nRJxEliYTq817UGGqDyDQKRHDsdnAxcDJynnZ0YFZnx48Z09zwnaNw?key=Mk5rRFZDN0FrSFBPaGRkV05CRFJsamY3NHZWVjRn) | Feb. 2024 | Newton, MA (USA) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [@devenjadhav](https://github.com/devenjadhav) |
